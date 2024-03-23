@@ -22,3 +22,6 @@ Request: [
     "Sec-Fetch-Site: none",
     "Sec-Fetch-User: ?1",
 ]
+
+# Commit 2 Reflection notes
+![Commit 2 screen capture](/screenshots/commit2.png)
